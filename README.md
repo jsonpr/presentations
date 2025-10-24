@@ -1,6 +1,6 @@
 # Jason Kao's Presentations
 
-Below is a non-exhaustive list (in reverse chronological order) of conference talks and presentations I've had the opportunity to present.  Reach out to me if you'd like more information.
+Below is a non-exhaustive list (in reverse chronological order) of conference talks and presentations I've had the opportunity to present.  Reach out to me (at jason @ fogsecurity.io) if you'd like more information.
 
 ## 2025
 
