@@ -5,45 +5,43 @@ Below is a non-exhaustive list (in reverse chronological order) of conference ta
 ## 2025
 
 ### SANS CloudSecNext 2025 
-Date: 10/2025
-Talk: Amazon S3 Security: 19 Years Later-Why Cloud Data Security is Still Complex to Manage
+Date: 10/2025  
+Talk: Amazon S3 Security: 19 Years Later-Why Cloud Data Security is Still Complex to Manage  
 Slides: 
 
 ### Fwd:CloudSec 2025 Europe
-Date: 09/2025
-Talk: Mistrusted Advisor: When AWS Tooling Leaves Public S3 Buckets Undetected
+Date: 09/2025  
+Talk: Mistrusted Advisor: When AWS Tooling Leaves Public S3 Buckets Undetected  
 Slides: 
 
 ### Fwd:CloudSec 2025 North America
-Date: 07/2025
-Talk: The Duplicitous Nature of AWS Identity and Access Management (IAM)
+Date: 07/2025  
+Talk: The Duplicitous Nature of AWS Identity and Access Management (IAM)  
 Slides: 
 
 ## 2024
 
 ### SANS CloudSecNext 2024
-Talk: When Cloud Encryption Matters: From Another Layer of Access Control to
-a False Sense of Security
+Talk: When Cloud Encryption Matters: From Another Layer of Access Control to a False Sense of Security  
 
 ### Mandiant mWise 2024
-Talk: Blurred (Identity) Lines: Encryption in Cloud and Impact on Security and Data
+Talk: Blurred (Identity) Lines: Encryption in Cloud and Impact on Security and Data  
 
 ## 2023
 
 ### SANS CloudSecNext 2023
-Talk: Scaling Identity and Access in Multi-Account Enterprises: Complexities and
-Strategies for Effective IAM
+Talk: Scaling Identity and Access in Multi-Account Enterprises: Complexities and Strategies for Effective IAM   
 
 ### Mandiant mWise 2023
-Talk: Why’d you have to go and make things so complicated? Navigating IAM of Multi-Account Cloud Estate
+Talk: Why’d you have to go and make things so complicated? Navigating IAM of Multi-Account Cloud Estate  
 
 ### All Day DevOps 2023
-Talk: The Limit Does Not Exist: Invisible Cloud Service Limits and What It Means
+Talk: The Limit Does Not Exist: Invisible Cloud Service Limits and What It Means  
 
 ## 2020 and Earlier
 
 ### AWS Re:Inforce 2019
-Talk: Leadership Session: Governance, Risk, and Compliance
+Talk: Leadership Session: Governance, Risk, and Compliance  
 
 ### AWS Re:Invent 2018
-Talk: Enterprise DevOps: Patterns Of Efficiency
+Talk: Enterprise DevOps: Patterns Of Efficiency  
