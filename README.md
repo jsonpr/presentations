@@ -7,17 +7,17 @@ Below is a non-exhaustive list (in reverse chronological order) of conference ta
 ### SANS CloudSecNext 2025 
 Date: 10/2025  
 Talk: Amazon S3 Security: 19 Years Later-Why Cloud Data Security is Still Complex to Manage  
-Slides: 
+Slides: [Kao_2025_S3_Complexity.pdf](Kao_2025_S3_Complexity.pdf)
 
 ### Fwd:CloudSec 2025 Europe
 Date: 09/2025  
 Talk: Mistrusted Advisor: When AWS Tooling Leaves Public S3 Buckets Undetected  
-Slides: 
+Slides: [Kao_2025_MIstrusted_Advisor_2025.pdf](Kao_2025_MIstrusted_Advisor_2025.pdf)
 
 ### Fwd:CloudSec 2025 North America
 Date: 07/2025  
 Talk: The Duplicitous Nature of AWS Identity and Access Management (IAM)  
-Slides: 
+Slides: [Kao_2025_Duplicitous_IAM.pdf](Kao_2025_Duplicitous_IAM.pdf)
 
 ## 2024
 
